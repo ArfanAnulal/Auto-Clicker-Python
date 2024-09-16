@@ -50,4 +50,6 @@ You can modify the delay between clicks or add more functionality to the script 
 - **Click at Specific Coordinates**: You can make the script click at specific coordinates on the screen by using pyautogui.click(x, y) where x and y are the pixel coordinates.
   ```python
   pyautogui.click(100, 200)  # Clicks at position (100, 200)
+## License
 
+This project is open-source and available under the [MIT License](https://opensource.org/licenses/MIT).
